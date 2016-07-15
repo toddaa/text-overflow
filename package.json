@@ -2,13 +2,8 @@
   "name": "text-overflow-fork",
   "version": "0.7.4",
   "description": "jQuery Text Overflow plugin",
-  "main": "lib/jquery.text-overflow.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/toddaa/text-overflow.git"
-  },
   "keywords": [
-    "jquery"
+    "jquery",
     "plugin",
     "text-overflow"
   ],
